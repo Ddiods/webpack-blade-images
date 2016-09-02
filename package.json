@@ -1,0 +1,22 @@
+{
+  "name": "webpack-blade-images",
+  "version": "0.0.1",
+  "description": "Extract Images from Blade Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ddiods/webpack-blade-images.git"
+  },
+  "author": {
+    "email": "ddiods@hotmail.com",
+    "name": "David E. Soto Vásquez"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ddiods/webpack-blade-images/issues"
+  },
+  "homepage": "https://github.com/Ddiods/webpack-blade-images#readme"
+}
